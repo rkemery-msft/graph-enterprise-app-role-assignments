@@ -11,7 +11,7 @@ PowerShell scripts leveraging Microsoft Graph to retrieve and export user and gr
 - Download and process all app role assignments—identifying whether each assignment belongs to a user or a group.
 - Export the results to a uniquely named CSV file.
 
-This repository provides a robust sample for environments and is ideal for demos, testing, and adapting to your organization's needs.
+This repository provides a sample for environments and is ideal for demos, testing, and adapting to your organization's needs.
 
 ## Prerequisites
 
