@@ -93,6 +93,3 @@ Contributions are welcome! Please fork this repository and submit pull requests 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-For any questions or further assistance, please open an issue in this repository.
