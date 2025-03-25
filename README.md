@@ -85,10 +85,6 @@ Each CSV export is generated with a unique filename (using a timestamp) to preve
 > **WARNING:** This script is provided as a demo and for educational purposes only. It is designed to be adapted and tested within your environment.  
 > **Do not use this script in production without thoroughly reviewing, testing, and adapting it to meet your organization’s security and operational requirements.**
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
